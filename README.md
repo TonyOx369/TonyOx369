@@ -5,7 +5,6 @@
 <!---  [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/real-time-seamless-single-shot-6d-object-pose/6d-pose-estimation-on-occlusion)](https://paperswithcode.com/sota/6d-pose-estimation-on-occlusion?p=real-time-seamless-single-shot-6d-object-pose) ---> 
   ‎ ‎ ‎ ‎ ‎
   
- ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ![Snake animation](https://github.com/TonyOx369/TonyOx369/blob/output/github-contribution-grid-snake.svg)
 # 💫 About Me:
 🔭 I’m currently working on Autonomous Underwater Vehicle<br>👯 I’m looking to collaborate on DL, CV and Robotics projects<br>📫 How to reach me siddhantarora396@gmail.com<br>
 
